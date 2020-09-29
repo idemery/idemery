@@ -5,3 +5,4 @@ I'm a web developer and I love coding so much. I have used many technogologies t
 - **MatLoader**: [Global progress loader that uses http interceptor and gives success/error feedback](https://github.com/idemery/idm-mat-loader)
 - **Chat and Cast**: [.NET Windows Forms Chat and Screen Casting using WCF Duplex](https://github.com/idemery/NetWinChatAndCast)
 - **ODataTable**: [Simplifies quering OData V4 APIs using odata-query, odata-data-source, and material-dynamic-table.](https://github.com/idemery/mat-odata-table)
+- **ChessForKids**: [Helps beginner chess players to know a piece's allowed moves and threats.](https://github.com/idemery/ChessForKids)
