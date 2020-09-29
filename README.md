@@ -6,3 +6,5 @@ I'm a web developer and I love coding so much. I have used many technogologies t
 - **Chat and Cast**: [.NET Windows Forms Chat and Screen Casting using WCF Duplex](https://github.com/idemery/NetWinChatAndCast)
 - **ODataTable**: [Simplifies quering OData V4 APIs using odata-query, odata-data-source, and material-dynamic-table.](https://github.com/idemery/mat-odata-table)
 - **ChessForKids**: [Helps beginner chess players to know a piece's allowed moves and threats.](https://github.com/idemery/ChessForKids)
+
+![ASP](./asp.png) ![C#](./hashtag.png) ![nodejs](./nodejs.png) ![javascript](./javascript.png) ![typescript](./typescript.png) ![html5](./html-5.png) ![visual-studio](./visual-studio.png) ![azure](./azure.png) ![sharepoint](./sharepoint.png) ![crm](./crm.png) ![docker](./docker.png) 
