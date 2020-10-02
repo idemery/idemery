@@ -9,4 +9,5 @@ I'm a web developer and I love coding so much. I have used many technogologies t
 - **Chess For Kids**: [Helps beginner chess players to know a piece's allowed moves and threats.](https://github.com/idemery/ChessForKids)
 - **Smartint**: [Dynamics CRM gets Document Management with Dropbox!](https://github.com/idemery/Smartint)
 
+
 ![ASP](./asp.png) ![C#](./hashtag.png) ![nodejs](./nodejs.png) ![javascript](./javascript.png) ![typescript](./typescript.png) ![html5](./html-5.png) ![visual-studio](./visual-studio.png) ![azure](./azure.png) ![sharepoint](./sharepoint.png) ![crm](./crm.png) ![docker](./docker.png) 
