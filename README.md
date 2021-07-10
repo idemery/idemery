@@ -1,6 +1,6 @@
 ### Islam Eldemery 
 
-I'm a web developer and I love coding so much. I have used many technologies throughout a decade of professional experience in programming and here you'll find bits of the things I liked, things I developed for fun, and things that I use commonly in different applications that you may find helpful.
+I'm a web developer and I love coding and automation so much! I have used many technologies throughout a decade of professional experience in programming and here you'll find bits of the things I liked, things I developed for fun, and things that I use commonly in different applications that you may find helpful.
 
 - **Smartint**: [Dynamics CRM gets Document Management with Dropbox.](https://github.com/idemery/Smartint)
 - **Multiplayer Snake Game**: [A multiplayer snake game using .NET 5 Blazor and SignalR that supports rooms and multiple games.](https://github.com/idemery/MultiPlayerSnakeGame)
